@@ -25,19 +25,22 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="New Text"
-            android:id="@+id/textView2"
+            android:id="@+id/txtQuestion"
             android:textSize="@dimen/h2" />
 
         <ImageView
             android:layout_width="@dimen/image"
             android:layout_height="@dimen/image"
-            android:id="@+id/imageView"
+            android:id="@+id/imvTrafficTest"
             android:layout_gravity="center_horizontal" />
 
         <RadioGroup
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal">
+            android:id="@+id/ragChoice"
+            android:layout_gravity="center_horizontal"
+            android:background="#78ffffff"
+            android:padding="50dp">
 
             <RadioButton
                 android:layout_width="wrap_content"
