@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="times1">
+
+        <item>ห้ามเลี้ยวซ้าย</item>
+        <item>ข้อหลอก</item>
+        <item>ข้อหลอก</item>
+        <item>ถูกทุกข้อ</item>
+
+    </string-array>
+
+    <string-array name="times2">
+
+        <item>ข้อหลอก</item>
+        <item>ห้ามเลี้ยวขวา</item>
+        <item>ข้อหลอก</item>
+        <item>ถูกทุกข้อ</item>
+
+    </string-array>
+
+    <string-array name="times3">
+
+        <item>ห้ามเลี้ยวซ้าย</item>
+        <item>ข้อหลอก</item>
+        <item>ห้ามตรงไป</item>
+        <item>ถูกทุกข้อ</item>
+
+    </string-array>
+
+    <string-array name="times4">
+
+    <item>ห้ามเลี้ยวซ้าย</item>
+    <item>ข้อหลอก</item>
+    <item>ข้อหลอก</item>
+    <item>ให้เลี้ยวขวา</item>
+
+</string-array>
+
+    <string-array name="times5">
+
+    <item>ให้เลี้ยวซ้าย</item>
+    <item>ข้อหลอก</item>
+    <item>ข้อหลอก</item>
+    <item>ถูกทุกข้อ</item>
+
+    </string-array>
+
+    <string-array name="times6">
+
+    <item>ทางออก</item>
+    <item>ข้อหลอก</item>
+    <item>ข้อหลอก</item>
+    <item>ถูกทุกข้อ</item>
+
+</string-array>
+
+    <string-array name="times7">
+
+    <item>ห้ามเลี้ยวซ้าย</item>
+    <item>ข้อหลอก</item>
+    <item>ทางเข้า</item>
+    <item>ถูกทุกข้อ</item>
+
+</string-array>
+
+    <string-array name="times8">
+
+    <item>ห้ามเลี้ยวซ้าย</item>
+    <item>ข้อหลอก</item>
+    <item>ข้อหลอก</item>
+    <item>ทางออก</item>
+
+</string-array>
+
+    <string-array name="times9">
+
+    <item>หยุด</item>
+    <item>ข้อหลอก</item>
+    <item>ข้อหลอก</item>
+    <item>ถูกทุกข้อ</item>
+
+</string-array>
+
+    <string-array name="times10">
+
+        <item>ห้ามเลี้ยวซ้าย</item>
+        <item>จำกัดความสูง 5.0m</item>
+        <item>ข้อหลอก</item>
+        <item>ถูกทุกข้อ</item>
+
+    </string-array>
+
+
+</resources>
